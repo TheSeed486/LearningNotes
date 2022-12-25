@@ -1,6 +1,20 @@
 # 安装opencv
 
-[TOC]
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [安装opencv](#安装opencv)
+  - [什么是 OpenCV](#什么是-opencv)
+  - [安装 OpenCV](#安装-opencv)
+  - [测试 OpenCV 安装](#测试-opencv-安装)
+  - [opencv架构](#opencv架构)
+  - [OpenCV 图像读取与显示](#opencv-图像读取与显示)
+    - [读取图像](#读取图像)
+    - [显示图像](#显示图像)
+    - [保存图像](#保存图像)
+
+<!-- /code_chunk_output -->
 
 python的opencv安装比较简单，一句命令行`pip install opencv-python`就可以了，不过前提是python环境要配好，我没有按教程一样安装特定版本......甚至python版本都是最新的 ~~（已经做好踩坑的准备了）~~。
 
